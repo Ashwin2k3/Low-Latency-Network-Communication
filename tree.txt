@@ -1,0 +1,15 @@
+LowLatencyNetworkCommunication/
+├── CMakeLists.txt
+├── config.json
+├── include/
+│   ├── network.hpp
+│   └── utility.hpp
+├── src/
+│   ├── network.cpp
+│   ├── utility.cpp
+│   └── main.cpp
+├── tests/
+│   ├── CMakeLists.txt
+│   └── test_network.cpp
+└── README.md
+
